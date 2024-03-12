@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app-jarcode/static/css/main.a2e8927e.css",
+    "main.js": "/app-jarcode/static/js/main.1bc04bfc.js",
+    "static/js/453.5e65f899.chunk.js": "/app-jarcode/static/js/453.5e65f899.chunk.js",
+    "index.html": "/app-jarcode/index.html",
+    "main.a2e8927e.css.map": "/app-jarcode/static/css/main.a2e8927e.css.map",
+    "main.1bc04bfc.js.map": "/app-jarcode/static/js/main.1bc04bfc.js.map",
+    "453.5e65f899.chunk.js.map": "/app-jarcode/static/js/453.5e65f899.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e8927e.css",
+    "static/js/main.1bc04bfc.js"
+  ]
+}
